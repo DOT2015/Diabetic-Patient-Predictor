@@ -1,4 +1,4 @@
-# Diabetic-Patient-Predictor
+# Diabetes-Patient-Predictor
 
 ## About this file
 This dataset describes the medical records for Pima Indians
@@ -24,4 +24,4 @@ age = Age (years)
 
 class = Class variable (1:tested positive for diabetes, 0: tested negative for diabetes)
 
-
+# The Predictor System is able to predict if the patient is positive for diabetes or negative for diabetes
